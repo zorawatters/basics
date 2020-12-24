@@ -2,8 +2,7 @@
 import numpy as np
 from collections import deque
 import heapq
-import unittest
-from scipy import stats
+
 
 #this file is going to contain different search algorithms to find paths from one point on a grid to another
 
